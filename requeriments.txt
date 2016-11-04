@@ -1,0 +1,8 @@
+django
+oauthlib
+django-oauth-toolkit
+djangorestframework
+Pillow
+django-braces
+
+
