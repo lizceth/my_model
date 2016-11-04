@@ -1,0 +1,7 @@
+*.pyc
+staticfiles
+.idea/vcs.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/my_model.iml
+.idea/workspace.xml
